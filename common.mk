@@ -283,15 +283,15 @@ PRODUCT_PACKAGES += \
 
 # Touch features
 PRODUCT_PACKAGES += \
-    vendor.havoc.touch@1.0-service.samsung
+    vendor.lineage.touch@1.0-service.samsung
 
 # Livedisplay
 PRODUCT_PACKAGES += \
-    vendor.havoc.livedisplay@2.0-service.samsung-exynos
+    vendor.lineage.livedisplay@2.0-service.samsung-exynos
 
 # Trust HAL
 PRODUCT_PACKAGES += \
-    vendor.havoc.trust@1.0-service
+    vendor.lineage.trust@1.0-service
 
 # Sensors
 PRODUCT_PACKAGES += \
