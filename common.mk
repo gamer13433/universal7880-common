@@ -283,15 +283,15 @@ PRODUCT_PACKAGES += \
 
 # Touch features
 PRODUCT_PACKAGES += \
-    vendor.lineage.touch@1.0-service.samsung
+    vendor.havoc.touch@1.0-service.samsung
 
 # Livedisplay
 PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service.samsung-exynos
+    vendor.havoc.livedisplay@2.0-service.samsung-exynos
 
 # Trust HAL
 PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
+    vendor.havoc.trust@1.0-service
 
 # Sensors
 PRODUCT_PACKAGES += \
@@ -301,7 +301,7 @@ PRODUCT_PACKAGES += \
 # Offmode charger
 PRODUCT_PACKAGES += \
     charger_res_images \
-    lineage_charger_res_images
+    havoc_charger_res_images
 
 # USB
 PRODUCT_PACKAGES += \
